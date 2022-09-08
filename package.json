@@ -1,0 +1,8 @@
+{
+  "name": "google-meet-slack-integration",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:madhav23bansal/google-meet-slack-integration.git",
+  "author": "madhav23bansal <madhavb230100@gmail.com>",
+  "license": "MIT"
+}
